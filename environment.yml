@@ -1,0 +1,4 @@
+name: mse-234-project
+channels:
+  - defaults
+prefix: /Users/jbrown/opt/anaconda3/envs/mse-234-project
